@@ -1,5 +1,11 @@
 # CombatLog Plugin 
-CombatLog plugin for PocketMine, Genisys, ClearSky, Chrome
+CombatLog plugin for PocketMine, Genisys, ClearSky, Chrome (PhP 7.0)
+
+Plugin informations:
+
+API: 2.0.0
+
+For McPE: 0.15.X, 0.16.X
 # How to use?
 Put the CombatLog.phar to your plugins folder, and reload your server!
 # How you can edit the messages?
